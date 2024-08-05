@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("antreman denemesi bro");
+            Console.WriteLine("commit");
         }
     }
 }
