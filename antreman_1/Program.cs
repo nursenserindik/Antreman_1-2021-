@@ -10,6 +10,7 @@ namespace antreman_1
             Console.WriteLine("commit");
             Console.WriteLine("yalandan commit yenileme");
             Console.WriteLine("eeee");
+            Console.WriteLine("eeee ben arif dolandırıcalar kralıyım askjdasd");
         }
     }
 }
