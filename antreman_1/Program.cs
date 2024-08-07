@@ -9,6 +9,7 @@ namespace antreman_1
             Console.WriteLine("antreman denemesi bro");
             Console.WriteLine("commit");
             Console.WriteLine("yalandan commit yenileme");
+            Console.WriteLine("eeee");
         }
     }
 }
